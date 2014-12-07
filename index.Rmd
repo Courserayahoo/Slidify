@@ -1,0 +1,33 @@
+---
+title: "Developing Data Product Projects"
+author : Parijit Kedia
+output: slidy_presentation
+---
+
+## Introduction
+
+This is my Developing Data Products Project using slidify. This project is about agriculture areas where we use different parameter and helping the farmer to know which area the farmer needs to improve its technique so that it gets maximum profit out of its farm 
+
+---
+
+## Parameters
+
+- Energy Consumption
+- Soil Conservation
+- Emissions
+- Biodiversity
+- Water Use
+- Land Use
+- Resource Consumption
+- Ecotoxity
+
+---
+
+## Working
+
+This ShinyApp works when a end user selects a value of the given data set like energy,soil etc. The value selected determines the graph.
+
+---
+```{r}
+plot(cars)
+```
